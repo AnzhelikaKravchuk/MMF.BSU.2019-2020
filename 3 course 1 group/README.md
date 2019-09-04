@@ -5,4 +5,5 @@
   - *практика 1-b - среда, 16.00-17.20, аудитория 120.*
   - *зачет ##.##.19.*
 
-**[Материалы и ссылки на литературу](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules)**
+- **[Полное руководство по языку программирования С# 8.0 и платформе .NET Core 3](https://metanit.com/sharp/tutorial/)
+- **[Материалы и ссылки на литературу](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules)**
