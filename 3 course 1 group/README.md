@@ -5,4 +5,4 @@
   - *практика 1-b - среда, 16.00-17.20, аудитория 120.*
   - *зачет ##.##.19.*
 
-**[Материалы здесь](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules)**
+**[Материалы и ссылки на литературу](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules)**
