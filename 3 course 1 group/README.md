@@ -6,5 +6,6 @@
   - *зачет ##.##.19.*     
 
 
+
 	- [Полное руководство по языку программирования С# 8.0 и платформе .NET Core 3](https://metanit.com/sharp/tutorial/)
 	- [Материалы и ссылки на литературу](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules)
