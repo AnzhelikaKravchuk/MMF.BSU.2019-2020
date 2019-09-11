@@ -22,7 +22,7 @@
 	b) нечетность;   
 	c) кратность заданной цифре d.  
    Протестировать работу методов с использованием тестового фреймворка NUnit (MS Tests). Рассмотреть вариант тестирования массивов большой размерности, элементы которых генерируются случайным образом.    
-   Используя Sandcastle - Documentation Compiler for Managed Class Libraries создать техническую документацию в стиле MSDN по данной сборке. 
+   Используя [Sandcastle - Documentation Compiler for Managed Class Libraries](https://archive.codeplex.com/?p=sandcastle) создать техническую документацию в стиле MSDN по данной сборке. 
 
 #### Варианты заданий.
 
