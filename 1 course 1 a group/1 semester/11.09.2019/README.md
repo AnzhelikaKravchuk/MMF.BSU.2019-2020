@@ -1,5 +1,7 @@
 ## Домашнее задание от 11.09.2019  
 
+- [Архитектура компьютера. Э. Таненбаум. Приложение А, Приложение B](https://drive.google.com/file/d/1fCJqlORKzXciCTzi5LG0daANM6Syrta7/view?usp=sharing)
+
 ### Полезные ссылки
 
 - [IEEE-754 Floating Point Converter](https://www.h-schmidt.net/FloatConverter/IEEE754.html)
@@ -9,5 +11,4 @@
 - [Что внутри числа с плавающей точкой и как оно работает](https://javarush.ru/groups/posts/2255-chto-vnutri-chisla-s-plavajujshey-tochkoy-i-kak-ono-rabotaet)
 - [IEEE 754 - стандарт двоичной арифметики с плавающей точкой](http://www.softelectro.ru/ieee754.html)
 
-
-- [Архитектура компьютера. Э. Таненбаум. Приложение А, Приложение B](https://drive.google.com/file/d/1fCJqlORKzXciCTzi5LG0daANM6Syrta7/view?usp=sharing)
+### Задачи.
