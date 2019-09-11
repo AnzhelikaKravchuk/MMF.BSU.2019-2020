@@ -9,4 +9,5 @@
 - [Что внутри числа с плавающей точкой и как оно работает](https://javarush.ru/groups/posts/2255-chto-vnutri-chisla-s-plavajujshey-tochkoy-i-kak-ono-rabotaet)
 - [IEEE 754 - стандарт двоичной арифметики с плавающей точкой](http://www.softelectro.ru/ieee754.html)
 
-- [АРХИТЕКТУРА КОМПЬЮТЕРА. Э. ТАНЕНБАУМ](https://drive.google.com/file/d/1fCJqlORKzXciCTzi5LG0daANM6Syrta7/view?usp=sharing)
+
+- [Архитектура компьютера. Э. Таненбаум. Приложение А, Приложение B](https://drive.google.com/file/d/1fCJqlORKzXciCTzi5LG0daANM6Syrta7/view?usp=sharing)
