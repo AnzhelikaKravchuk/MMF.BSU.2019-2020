@@ -8,3 +8,14 @@
 
 	- [Полное руководство по языку программирования С# 8.0 и платформе .NET Core 3](https://metanit.com/sharp/tutorial/)
 	- [Материалы и ссылки на литературу](https://github.com/EPM-RD-NETLAB/.NET-Framework-modules)
+
+## Task (deadline - 13.12.2019)
+- Постановка задачи и "step by step" описание шагов ее решения [здесь](https://metanit.com/sharp/helpdeskmvc/1.1.php)/
+- Требования к решению задачи
+	- Тип проекта ASP.NET MVC 5 или ASP.NET MVC Core 3.
+	- Использование Visual Studio Community 2019 или JetBrains Rider 2019.
+	- Для работы с данными использование ORM-маппера ADO.NET EF 6.3 или ADO.NET EF Core 3 (в зависимости от типа проекта).
+	- Обязательное использование AJAX.
+	- (Дополню немного позднее).
+- Требования к оформлению
+	- (Дополню немного позднее).
