@@ -19,9 +19,9 @@
 
 - Установить Visual Studio Community
 - Создать аккаунт в GitHub
-- Создать приватный репозиторий в GitHub с названием **Extramural.Summer2019.LastName** (LastName - фамилия студента). Добавить в коллабораторы **AnzhelikaKravchuk**
+- Создать приватный репозиторий в GitHub с названием **Extramural.Summer2020.LastName** (LastName - фамилия студента). Добавить в коллабораторы **AnzhelikaKravchuk**
 - Выполнить предложенные ниже задания
-- Поместить выполненные задания в репозиторий **Extramural.Summer2019.LastName**
+- Поместить выполненные задания в репозиторий **Extramural.Summer2020.LastName**
 
 ##
 0. Write a C# Sharp program to swap two numbers.
