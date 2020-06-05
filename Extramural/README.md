@@ -5,9 +5,9 @@
 
 - [Полное руководство по языку программирования С# 7.0 и платформе .NET 4.7Полное руководство по языку программирования С# 8.0 и платформе .NET Core 3](https://metanit.com/sharp/tutorial/)
 - [Руководство по ASP.NET Core 3](https://metanit.com/sharp/aspnet5/)
-- [C# Tutorials](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/)
+- [C# Tutorial](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/)
 - [C# Tutorial](https://www.tutorialspoint.com/csharp/)
-- [C# Tutorials](https://www.tutorialsteacher.com/csharp/csharp-tutorials)
+- [C# Tutorial](https://www.tutorialsteacher.com/csharp/csharp-tutorials)
 
 
 ## Online Complilers
